@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="1ffd0fb9-f036-444d-a896-41145d1dadc9" name="Changes" comment="добавил h1" />
+=======
+    <list default="true" id="1ffd0fb9-f036-444d-a896-41145d1dadc9" name="Changes" comment="добавил h1">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+>>>>>>> adam
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,6 +120,7 @@
     <MESSAGE value="добавил 2 заголовок" />
     <MESSAGE value="добавил readme" />
     <MESSAGE value="добавил новый блок" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавил новый блок" />
+    <MESSAGE value="добавил h1" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавил h1" />
   </component>
 </project>
